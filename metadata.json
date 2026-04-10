@@ -1,0 +1,5 @@
+{
+  "name": "InstaMark",
+  "description": "一个隐私优先的客户端应用，可自动为您的图片添加可自定义平铺、旋转和样式的透明文字水印。",
+  "requestFramePermissions": []
+}
